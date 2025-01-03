@@ -1,9 +1,3 @@
----
-title: "GRS"
-output: html_document
-date: "2025-01-03"
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
